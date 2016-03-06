@@ -1,4 +1,4 @@
-name := """WebApp"""
+name := """webapp"""
 
 version := "1.0-SNAPSHOT"
 
