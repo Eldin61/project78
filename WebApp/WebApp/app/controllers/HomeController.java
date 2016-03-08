@@ -21,4 +21,8 @@ public class HomeController extends Controller {
         return ok(index.render("Dashboard"));
     }
 
+
+    public Result test(){
+        return ok(test.render("Testboard"));
+    }
 }
